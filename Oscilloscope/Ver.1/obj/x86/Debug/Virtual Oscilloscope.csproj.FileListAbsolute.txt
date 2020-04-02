@@ -1,0 +1,22 @@
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\bin\Debug\Oscilloscope.exe
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\bin\Debug\Oscilloscope.pdb
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.Display.resources
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.OscillForm.resources
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.Properties.Resources.resources
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Virtual Oscilloscope.csproj.GenerateResource.Cache
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.exe
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.pdb
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.GeneratorSignals.resources
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Virtual Oscilloscope.csprojResolveAssemblyReference.cache
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\bin\Debug\Oscilloscope.exe
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\bin\Debug\Oscilloscope.pdb
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Virtual Oscilloscope.csprojResolveAssemblyReference.cache
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.Display.resources
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.OscillForm.resources
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.Properties.Resources.resources
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.GeneratorSignals.resources
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Virtual Oscilloscope.csproj.GenerateResource.Cache
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.exe
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.pdb
+E:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.My.resources
+F:\Универ\2 КУРС\2 семестр\Техн прогр\Курсасч\Готово\Oscilloscope\Oscilloscope\obj\x86\Debug\Oscilloscope.My.resources
