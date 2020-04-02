@@ -1,7 +1,5 @@
 Virtual Oscilloscope
 
-Version 2
-
 <img width="500" alt="Oscilloscope simulation C# version 2" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
 
 C#, Windows Forms, MS Visual Studio
