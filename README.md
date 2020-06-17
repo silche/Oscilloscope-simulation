@@ -8,6 +8,7 @@ C#, Windows Forms, MS Visual Studio
 
 <img width="500" alt="Oscilloscope simulation C# version 2" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
 
+<text align="center">
 Version 2. Interactive 
 
 
