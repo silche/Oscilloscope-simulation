@@ -1,6 +1,9 @@
 Virtual Oscilloscope
+
 2nd year bachelor's course project in discipline "Object-oriented programming"
+
 07/2015 ©
+
 
 Version 2. Interactive 
 
