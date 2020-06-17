@@ -17,7 +17,7 @@ C#, Windows Forms, MS Visual Studio
 
 
 
-<img width="300" alt="Oscilloscope simulation C# version 1" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.1/3.png">
+<img width="400" alt="Oscilloscope simulation C# version 1" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.1/3.png">
 
 
 > Version 1
