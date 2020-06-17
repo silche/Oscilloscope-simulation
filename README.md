@@ -6,7 +6,7 @@ C#, Windows Forms, MS Visual Studio
 
 
 
-<img width="500" alt="Oscilloscope simulation C# version 2" text=Version 2. Interactive align="center" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
+<img width="500" alt="Oscilloscope simulation C# version 2" text="Version 2. Interactive" align="center" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
  
 
 
