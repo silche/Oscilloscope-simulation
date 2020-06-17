@@ -1,8 +1,6 @@
 ### Virtual Oscilloscope
 
-2nd year bachelor's course project in discipline "Object-oriented programming"
-
-Main goal of the project: to study OOP in practice.
+2nd year bachelor's course project in discipline "Object-oriented programming". Main goal of the project: to study OOP in practice.
 
 
 C#, Windows Forms, MS Visual Studio
