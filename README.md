@@ -2,9 +2,11 @@
 
 2nd year bachelor's course project in discipline "Object-oriented programming"
 
-07/2015 ©
 
 C#, Windows Forms, MS Visual Studio
+
+
+07/2015 ©
 
 
 
