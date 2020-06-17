@@ -6,14 +6,14 @@ C#, Windows Forms, MS Visual Studio
 
 
 
-<img width="500" alt="Oscilloscope simulation C# version 2" text="Version 2. Interactive" align="center" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
+<img width="500" alt="Oscilloscope simulation C# version 2" align="center" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
  
 
-> Follow your heart.
+> Version 2. Interactive
 
 
 
 <img width="300" alt="Oscilloscope simulation C# version 1" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.1/3.png">
 
 
-Version 1
+> Version 1
