@@ -1,10 +1,9 @@
-Virtual Oscilloscope
+Virtual Oscilloscope 07/2015 ©
 
 2nd year bachelor's course project in discipline "Object-oriented programming"
 
 C#, Windows Forms, MS Visual Studio
 
-07/2015 ©
 
 
 Version 2. Interactive 
