@@ -1,5 +1,4 @@
-###Virtual
-Oscilloscope
+### Virtual Oscilloscope
 
 07/2015 ©
 
