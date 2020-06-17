@@ -1,4 +1,8 @@
-Virtual Oscilloscope 07/2015 ©
+Virtual Oscilloscope
+2nd year bachelor's course project in discipline "Object-oriented programming"
+07/2015 ©
+
+Version 2. Interactive 
 
 <img width="500" alt="Oscilloscope simulation C# version 2" src="https://github.com/technogelis/Oscilloscope-simulation/blob/master/ScreenShots/ver.2/1.png">
 
